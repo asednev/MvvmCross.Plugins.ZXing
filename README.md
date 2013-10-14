@@ -44,10 +44,10 @@ void Scan_Complete(MvxZXingResult result)
 <h3>Thanks</h3>
 <ul>
 <li>
-Stuart Lodge for MvvmCross - https://github.com/MvvmCross/MvvmCross
+<a href="https://twitter.com/slodge">Stuart Lodge</a> for MvvmCross - https://github.com/MvvmCross/MvvmCross
 </li>
 <li>
-Redth for ZXing.NetMobile - https://github.com/Redth/ZXing.Net.Mobile
+<a href="https://twitter.com/Redth">Redth</a> for ZXing.NetMobile - https://github.com/Redth/ZXing.Net.Mobile
 </li>
 </ul>
 
