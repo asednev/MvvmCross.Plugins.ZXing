@@ -65,13 +65,20 @@ namespace dESCO.MvvmCross.Plugins.ZXing.Droid
             //Start scanning
             var result = await scanner.Scan();
 
-            var mvxResult = new MvxZXingResult()
+            if (result != null)
             {
-                Text = result.Text,
-                RawBytes = result.RawBytes,
-                Timestamp = result.Timestamp
-            };
-            callback.Invoke(mvxResult);
+                var mvxResult = new MvxZXingResult()
+                {
+                    Text = result.Text,
+                    RawBytes = result.RawBytes,
+                    Timestamp = result.Timestamp
+                };
+                callback.Invoke(mvxResult);
+            }
+            else
+            {
+                callback.Invoke(null);
+            }
         }
     }
 }
