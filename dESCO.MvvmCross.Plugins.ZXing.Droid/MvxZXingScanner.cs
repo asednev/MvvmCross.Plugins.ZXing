@@ -60,6 +60,7 @@ namespace dESCO.MvvmCross.Plugins.ZXing.Droid
 
                 scanner.CancelButtonText = options.CancelButtonText;
                 scanner.FlashButtonText = options.FlashButtonText;
+
             }
 
             //Start scanning

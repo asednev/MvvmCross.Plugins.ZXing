@@ -1,7 +1,0 @@
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\bin\Debug\dESCO.MvvmCross.Plugins.ZXing.dll
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\bin\Debug\dESCO.MvvmCross.Plugins.ZXing.pdb
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\obj\Debug\dESCO.MvvmCross.Plugins.ZXing.dll
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\obj\Debug\dESCO.MvvmCross.Plugins.ZXing.pdb
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\bin\Debug\Cirrious.CrossCore.dll
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\bin\Debug\Cirrious.MvvmCross.Localization.dll
-c:\ESC 13\ESC Mobile Client - Android Native\dESCO.MvvmCross.Plugins.ZXing\obj\Debug\dESCO.MvvmCross.Plugins.ZXing.csprojResolveAssemblyReference.cache
